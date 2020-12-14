@@ -1,0 +1,28 @@
+_repo: Les-Filles-Publiques-sous-la-Terreur-D-apres-les-rapports-de-la-police-secrete-des-documents-__63915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fleischmann, Hector
+    birthdate: 1882
+    deathdate: 1914
+    gutenberg_agent_id: '5990'
+    url: http://www.gutenberg.org/2009/agents/5990
+    wikipedia: https://fr.wikipedia.org/wiki/Hector_Fleischmann
+description: ''
+gutenberg_issued: '2020-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63915'
+  lccn: '58052742'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Fleischmann, Hector, 1882-1914. Dessous de la Terreur, 3.
+subjects:
+- !lcsh 'Prostitution -- France -- Paris -- History'
+- !lcc 'HQ'
+- GITenberg
+title: "Les Filles Publiques sous la Terreur\r\nD'après les rapports de la police\
+  \ secrète, des documents nouveaux et des pièces inédites tirées des Archives Nationales"
+url: http://www.gutenberg.org/ebooks/63915
